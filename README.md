@@ -1,4 +1,4 @@
-# README for Telegram Bot with Speech and Image Processing
+# Telegram Bot with Speech and Image Processing
 
 
 This Python project aims to create a Telegram bot capable of processing text, speech, and images using natural language processing (NLP) and optical character recognition (OCR) techniques. The bot leverages pre-trained language models and OCR tools to generate responses and extract text from various input sources.
